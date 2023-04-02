@@ -12,5 +12,5 @@ API for extracting data from marketing tools in order to build an end-to-end eco
 
 <div id="header" align="center">
 <h1>🛠 Connected Marketing Tools</h1>
-<a href="https://metrika.yandex.ru/"><img src="https://img.shields.io/badge/Yandex.Metrica-FFCC00?style=for-the-badge&logo=Yandex.Metrica&logoColor=white" alt="Yandex Metrica"></a>
+<a href="https://metrika.yandex.ru/"><img src="https://img.shields.io/badge/Yandex.Metrika-FFCC00?style=for-the-badge&logo=Yandex.Metrika&logoColor=white" alt="Yandex Metrika API"></a>
 </div>
